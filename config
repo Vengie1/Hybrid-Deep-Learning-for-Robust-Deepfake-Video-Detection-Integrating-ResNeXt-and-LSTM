@@ -6,7 +6,7 @@
 	symlinks = false
 	ignorecase = true
 [remote "origin"]
-	url = https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning.git
+	url = https://github.com/Vengie1/Hybrid-Deep-Learning-for-Robust-Deepfake-Video-Detection-Integrating-ResNeXt-and-LSTM.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "master"]
 	remote = origin
